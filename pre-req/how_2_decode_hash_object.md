@@ -119,4 +119,4 @@ git cat-file -p <sha1-hash>
 | Commit info    | Commit           |
 | Tag metadata   | Tag              |
 
-Would you like a hands-on exercise to practice this with a sample Git repo and file?
+
